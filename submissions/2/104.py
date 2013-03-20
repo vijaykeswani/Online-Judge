@@ -1,0 +1,2 @@
+while(1):continue
+print "1\n2\n3\n4"
